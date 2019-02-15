@@ -1,0 +1,5 @@
+{
+  "mongoPath": "mongodb://admin:minh123@ds151014.mlab.com:51014/tk-hotgirl17",
+  "sessionSecret": "himitsu",
+  "secureCookie": false
+}
